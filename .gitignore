@@ -1,4 +1,5 @@
 /images/*.psd
 /images/*.jpg
+/images/*.jpeg
 .settings/*
 .project
