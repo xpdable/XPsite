@@ -1,3 +1,4 @@
 /images/*.psd
+/images/*.jpg
 .settings/*
 .project
